@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+h2{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+section>h2{
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    margin left: 10px;
+
+}
+
+li{
+    color: black;
+    font-family: cursive;
+    text-align: left;
+}
+
+p{
+    color: black;
+    text-align: justify;}
+
+main{
+    color: cornsilk;
+}
